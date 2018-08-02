@@ -12,7 +12,7 @@ npm install react-native-pin-code-ui --save
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View,TouchableOpacity,Alert} from 'react-native';
 
-import Pin from './Pin'
+import Pin from 'react-native-pin-code-ui'
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
