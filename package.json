@@ -1,0 +1,24 @@
+{
+  "name": "react-native-pin-code-ui",
+  "version": "1.0.0",
+  "description": "Pin Code UI for React Native",
+  "main": "Pin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekartal/react-native-pin-code-ui.git"
+  },
+  "keywords": [
+    "reactnative",
+    "code",
+    "pin"
+  ],
+  "author": "ekartal@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekartal/react-native-pin-code-ui/issues"
+  },
+  "homepage": "https://github.com/ekartal/react-native-pin-code-ui#readme"
+}
