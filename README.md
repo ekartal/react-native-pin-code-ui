@@ -94,8 +94,8 @@ const styles = StyleSheet.create({
 
 ## Screencasts
 
-![demo](https://github.com/ekartal/react-native-pin-code-ui/ss/demo1.png)
-![demo](https://github.com/ekartal/react-native-pin-code-ui/ss/demo2.png)
+![demo](https://github.com/ekartal/react-native-pin-code-ui/blob/master/ss/demo1.png)
+![demo](https://github.com/ekartal/react-native-pin-code-ui/blob/master/ss/demo2.png)
 
 #### Props
 - `onChangeValue` when value of pin is changed
