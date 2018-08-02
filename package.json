@@ -1,6 +1,6 @@
 {
   "name": "react-native-pin-code-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pin Code UI for React Native",
   "main": "Pin.js",
   "scripts": {
